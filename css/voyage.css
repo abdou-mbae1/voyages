@@ -117,13 +117,13 @@
 
 .deuxieme {
     
-    background: url('https://media.istockphoto.com/photos/-picture-id614107952?k=20&m=614107952&s=612x612&w=0&h=uVNi5iQpxSgGd9VZHr_1Uok9NttMHmLJ85aEH6V5Ims=') no-repeat fixed 50% 50%;
+    background: url('https://evasion-online.com/imagearticle/2017/04/port_moroni.jpg') no-repeat fixed 50% 50%;
     background-size: cover ;
     height: 300px;  }
 
 .troisieme {
     
-    background: url('https://media.istockphoto.com/photos/fuji-mountain-red-maple-tree-and-fisherman-boat-with-morning-mist-in-picture-id1192780580?k=20&m=1192780580&s=612x612&w=0&h=STSjwbr2JAtCkkBb2yGGWl1IYhxb_ro5XBS-JRnpgmw=') no-repeat fixed 50% 50%;
+    background: url('https://www.101viajes.com/sites/default/files/miyajima-japon.jpg') no-repeat fixed 50% 50%;
     background-size: cover ;
     height: 300px;  }
 
@@ -171,6 +171,7 @@
     }
     nav{
       width: 100%;
+      position: fixed;
     }
     
     
@@ -301,3 +302,30 @@
      li {list-style-type: none;
     
      }
+
+     h1 {
+       color: rgb(255, 255, 255);
+       text-shadow:2px 1px 0px rgba(206,89,55,0.84);
+      
+       font-weight: bold;
+       font-size: 2.8em;
+     }
+
+     .fff {
+       color: black;
+       float: right;
+     }
+
+     .ggg {
+       padding: 2% 0;
+      
+     }
+     h3 {
+      text-align: center;
+    margin-top: 2%;
+    font-size: 2em;
+    font-family: 'Quicksand', sans-serif;
+      color: #FFFFFF;
+    text-shadow: 0 0 5px rgb(0, 0, 0), 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    
+    }
